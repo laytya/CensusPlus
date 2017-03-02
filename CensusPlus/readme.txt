@@ -1,11 +1,16 @@
-CensusPlus - by Rollie of Bloodscalp aka Cooper Sellers
+CensusPlus - by Rollie of Bloodscalp aka Cooper Sellers, cont. laytya (2017) for Vanilla
 
   WEBSITE
 
    http://www.warcraftrealms.com/
 
   VERSION
-
+	3.6.0  - 02/03/2017
+	- added colors
+	- added numbers
+	- fixed work w/ Elysium's servers
+	- added character sorting
+	
     3.5.1 - 10/07/2006 - Update
 	- Finally put in place a way to do a normal /who while census is running
 		-  If your /who returns more than 3 results, the friends frame window 
